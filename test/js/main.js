@@ -1,9 +1,4 @@
-/*
-* Template Name: Leven - Resume / CV / vCard Template
-* Author: lmpixels
-* Author URL: http://themeforest.net/user/lmpixels
-* Version: 1.4.0
-*/
+
 
 (function($) {
 "use strict";
@@ -428,7 +423,7 @@
             zoom: 16 // Google Map ZOOM. You can change this value
         });
         $("#map").addMarker({
-            address: "S601 Townsend Street, San Francisco, California, USA", // Your Address. Change it
+            address: "Middlebury, VT", // Your Address. Change it
         });
 
         scrollTop();
