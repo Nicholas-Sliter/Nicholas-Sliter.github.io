@@ -8,8 +8,29 @@
 
 
 <url>
-  <loc>http://nsliter.com/</loc>
-  <lastmod>2021-05-05T20:14:55+00:00</lastmod>
+  <loc>https://www.nsliter.com/</loc>
+  <lastmod>2021-08-31T21:13:21+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.nsliter.com/resume/</loc>
+  <lastmod>2021-08-31T21:13:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nsliter.com/portfolio/</loc>
+  <lastmod>2021-08-31T21:13:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nsliter.com/contact/</loc>
+  <lastmod>2021-08-31T21:13:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.nsliter.com/downloads/Nicholas_Sliter_Resume_Public.pdf</loc>
+  <lastmod>2021-08-31T21:13:21+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
